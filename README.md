@@ -36,18 +36,18 @@ To run **Fitlife** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/fitlife.git
+sudo git clone https://github.com/Syphen21/Gym-App.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/fitlife.git
+git clone https://github.com/Syphen21/Gym-App.git
 ```
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+If you want to contact with me you can reach me at [E-Mail](jeetariwa21@gmail.com).
 
 ### License
 
